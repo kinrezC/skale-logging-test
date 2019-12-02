@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@terminal-packages/sdk": "^1.0.42",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "solc": "^0.5.12",
+    "web3": "^1.2.4"
+  }
+}
